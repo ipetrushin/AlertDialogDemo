@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AlertDialogDemo</string>
+    <string-array name="weather_types">
+        <item>Text</item>
+        <item>Icon</item>
+    </string-array>
 </resources>
